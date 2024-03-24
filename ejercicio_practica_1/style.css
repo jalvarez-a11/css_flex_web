@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    margin: 0 auto;
+    list-style-type: none;
+}
+
+.lenguaje {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer, ul {
+    background-color: #323b3b;
+    display: flex;
+    justify-content:center;
+    margin: 20px;
+}
+li {
+    margin: 50px;
+}
+
+
