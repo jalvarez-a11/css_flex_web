@@ -16,13 +16,16 @@ body {
 }
 
 footer, ul {
-    background-color: #323b3b;
+    background-color: #209690;
     display: flex;
     justify-content:center;
     margin: 20px;
 }
 li {
     margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
 }
 
 
